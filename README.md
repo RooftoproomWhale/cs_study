@@ -95,3 +95,11 @@
     2. [이진 검색 트리](https://www.acmicpc.net/problem/5639)
   - 심화
     1. [길 찾기 게임](https://programmers.co.kr/learn/courses/30/lessons/42892)
+
+### **7주차**(22.07.02)
+- 편범삼 [로드밸런서 / 방화벽: 4계층 장비](https://velog.io/@indongcha/IT-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%9E%85%EB%AC%B8-6%EC%9E%A5-%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%84%9C-%EB%B0%A9%ED%99%94%EB%B2%BD-4%EA%B3%84%EC%B8%B5-%EC%9E%A5%EB%B9%84%EC%84%B8%EC%85%98%EC%9E%A5%EB%B9%84)
+- 신건웅
+    - [버블정렬](https://rooftoproom-whale.tistory.com/30)
+    - [삽입정렬](https://rooftoproom-whale.tistory.com/33)
+    - [퀵정렬](https://rooftoproom-whale.tistory.com/34)
+- 트리 문제 코드리뷰 진행
